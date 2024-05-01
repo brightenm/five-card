@@ -22,3 +22,6 @@ Example output of running the application
 Shuffling ... Shuffling ... Shuffling ... 
 Your hand: 3♣ 7♦ 7♥ 7♠ K♥ 
 You have: Three of a Kind
+
+======To build the project========
+mvn clean install
